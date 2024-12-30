@@ -1,0 +1,14 @@
+C:\Users\temma\source\repos\FunDevC#\bin\Debug\net8.0\FunDevC#.exe
+C:\Users\temma\source\repos\FunDevC#\bin\Debug\net8.0\FunDevC#.deps.json
+C:\Users\temma\source\repos\FunDevC#\bin\Debug\net8.0\FunDevC#.runtimeconfig.json
+C:\Users\temma\source\repos\FunDevC#\bin\Debug\net8.0\FunDevC#.dll
+C:\Users\temma\source\repos\FunDevC#\bin\Debug\net8.0\FunDevC#.pdb
+C:\Users\temma\source\repos\FunDevC#\obj\Debug\net8.0\FunDevC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\temma\source\repos\FunDevC#\obj\Debug\net8.0\FunDevC#.AssemblyInfoInputs.cache
+C:\Users\temma\source\repos\FunDevC#\obj\Debug\net8.0\FunDevC#.AssemblyInfo.cs
+C:\Users\temma\source\repos\FunDevC#\obj\Debug\net8.0\FunDevC#.csproj.CoreCompileInputs.cache
+C:\Users\temma\source\repos\FunDevC#\obj\Debug\net8.0\FunDevC#.dll
+C:\Users\temma\source\repos\FunDevC#\obj\Debug\net8.0\refint\FunDevC#.dll
+C:\Users\temma\source\repos\FunDevC#\obj\Debug\net8.0\FunDevC#.pdb
+C:\Users\temma\source\repos\FunDevC#\obj\Debug\net8.0\FunDevC#.genruntimeconfig.cache
+C:\Users\temma\source\repos\FunDevC#\obj\Debug\net8.0\ref\FunDevC#.dll
